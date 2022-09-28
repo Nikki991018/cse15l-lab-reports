@@ -19,4 +19,4 @@ System.out.println("CSE 15L");
 
 Some things about me:
 1. my favorite song is: [Link](https://www.youtube.com/watch?v=2Vv-BfVoq4g)
-2. I am majoring in Applied math. ![Image](https://github.com/Nikki991018/cse15l-lab-reports/blob/4e319032ddac90ed1bbe7fb970fe7197e861e22d/Screen%20Shot%202022-09-27%20at%2021.28.17.png)
+2. I am majoring in Applied math. ![Image](./screenshot2.png)
