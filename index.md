@@ -4,7 +4,7 @@
 My name is Nikki.
 > This is *my second year* on **UCSD**.
 
-`Hello World`is the first code I write.
+`Hello World`is the **first** code I write.
 
 I am learning 
 * Python
