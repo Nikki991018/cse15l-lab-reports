@@ -94,7 +94,7 @@ $ scp /Users/joe/.ssh/id_rsa.pub cs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_keys
 It would be came out something below
 ![image](5.png)
 
-# Optimizing Remote Running
+# Step 6: Optimizing Remote Running
 Here is some hints that could make your life easier:
 * write a command in quotes at the end of an ssh would run it code on remote server, then exit:
 ```
